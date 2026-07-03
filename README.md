@@ -11,7 +11,7 @@ are supposed to serve.
 
 - Managing large-scale technical programmes across distributed engineering teams
 - Translating between business goals, technical constraints, and user impact
-- Building at the place where decisions about systems get made — not where the code gets written
+- Building at the place where decisions about systems get made - not where the code gets written
 
 ---
 
@@ -19,7 +19,7 @@ are supposed to serve.
 
 - Machine learning foundations (Andrew Ng / DeepLearning.AI)
 - AI ethics and algorithmic fairness
-- Getting comfortable with the tools, not just the concepts — starting with Claude Code
+- Getting comfortable with the tools, not just the concepts - starting with Claude Code
 
 ---
 
